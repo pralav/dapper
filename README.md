@@ -9,7 +9,7 @@ This repo is related to the project page of the paper ["DAPPER: Learning Domain-
 
 Project Page and the associated data can be accessed [here](https://pralav.github.io/adv_egs/?c=12).
 
-![Image](/character_tropes.001.jpeg)
+![Image](/dapper_1.png)
 
 
 ## Citation
