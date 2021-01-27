@@ -6,7 +6,7 @@
 
 This repo is related to the project page of the paper presented at AACL-IJCNLP'20:
 
-["DAPPER: Learning Domain-Adapted Persona Representation Using Pretrained BERT and External Memory"](https://www.aclweb.org/anthology/2020.aacl-main.65/) presented 
+["DAPPER: Learning Domain-Adapted Persona Representation Using Pretrained BERT and External Memory"](https://www.aclweb.org/anthology/2020.aacl-main.65/) 
 
 
 Project Page and the associated data can be accessed [here](https://pralav.github.io/dapper/?c=12). 
